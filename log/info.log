@@ -1,0 +1,33 @@
+[error]{"request_id":-,"message":llllll,"timestamp":2020-11-24T09:03:48.864Z}
+[info]{"request_id":e9d68c60-3de1-11eb-9cda-f1d4db4455e3,"message":登录成功,"timestamp":2020-12-14T07:56:46.505Z}
+[info]{"request_id":1335ac80-3de2-11eb-9ea2-4700df80680b,"message":登录成功,"timestamp":2020-12-14T07:57:55.915Z}
+[info]{"request_id":4e12a4c0-3de2-11eb-be69-27f4b04be7f5,"message":登录成功,"timestamp":2020-12-14T07:59:34.670Z}
+[error]{"request_id":b83f1fe0-3de2-11eb-b495-59df06c0507a,"message":登录成功,"timestamp":2020-12-14T08:02:32.800Z}
+[error]{"request_id":710066c0-3dec-11eb-8195-f12cdf8b3719,"message":respond error: notNull Violation: Users.user_name cannot be null,
+notNull Violation: Users.telephone cannot be null,
+notNull Violation: Users.email cannot be null,
+notNull Violation: Users.password cannot be null,"timestamp":2020-12-14T09:12:08.249Z}
+[error]{"request_id":710066c0-3dec-11eb-8195-f12cdf8b3719,"message":internal error: notNull Violation: Users.user_name cannot be null,
+notNull Violation: Users.telephone cannot be null,
+notNull Violation: Users.email cannot be null,
+notNull Violation: Users.password cannot be null,"timestamp":2020-12-14T09:12:08.253Z}
+[error]{"request_id":b8edf1f0-3dec-11eb-b7fc-45bb8c6a8c78,"message":respond error: notNull Violation: Users.user_name cannot be null,
+notNull Violation: Users.telephone cannot be null,
+notNull Violation: Users.email cannot be null,
+notNull Violation: Users.password cannot be null,"timestamp":2020-12-14T09:14:08.935Z}
+[error]{"request_id":b8edf1f0-3dec-11eb-b7fc-45bb8c6a8c78,"message":internal error: notNull Violation: Users.user_name cannot be null,
+notNull Violation: Users.telephone cannot be null,
+notNull Violation: Users.email cannot be null,
+notNull Violation: Users.password cannot be null,"timestamp":2020-12-14T09:14:08.945Z}
+[info]{"request_id":dc4f1ac0-3dec-11eb-ae14-8bfb3b4cbff3,"message":注册成功!,"timestamp":2020-12-14T09:15:08.455Z}
+[error]{"request_id":09a39b80-3dee-11eb-ae14-8bfb3b4cbff3,"message":respond error: Unknown column 'Users.name' in 'where clause',"timestamp":2020-12-14T09:23:33.839Z}
+[error]{"request_id":09a39b80-3dee-11eb-ae14-8bfb3b4cbff3,"message":internal error: Unknown column 'Users.name' in 'where clause',"timestamp":2020-12-14T09:23:33.840Z}
+[info]{"request_id":265e09e0-3dee-11eb-b5e0-59eea6c4fde0,"message":登录成功!,"timestamp":2020-12-14T09:24:22.105Z}
+[error]{"request_id":307951a0-3dee-11eb-b5e0-59eea6c4fde0,"message":respond error: Unknown column 'Users.phone' in 'where clause',"timestamp":2020-12-14T09:24:38.976Z}
+[error]{"request_id":307951a0-3dee-11eb-b5e0-59eea6c4fde0,"message":internal error: Unknown column 'Users.phone' in 'where clause',"timestamp":2020-12-14T09:24:38.977Z}
+[info]{"request_id":436bef70-3dee-11eb-ab70-1b9f5cbe61ea,"message":登录成功!,"timestamp":2020-12-14T09:25:10.854Z}
+[info]{"request_id":4edf2610-3dee-11eb-ab70-1b9f5cbe61ea,"message":登录成功!,"timestamp":2020-12-14T09:25:29.974Z}
+[error]{"request_id":54081a20-3dee-11eb-ab70-1b9f5cbe61ea,"message":respond error: ApiError:status[400],code[undefined],msg[用户名或密码不正确],errMsg[],"timestamp":2020-12-14T09:25:38.630Z}
+[info]{"request_id":5fbacac0-3dee-11eb-ab70-1b9f5cbe61ea,"message":登录成功!,"timestamp":2020-12-14T09:25:58.255Z}
+[ info ] { "request_id": b7ff1330-3dee-11eb-a684-39d413977c7c, "message": 登录成功!, "timestamp": 2020-12-14T09:28:26.422Z }
+[ error ] { "request_id": c464c020-3dee-11eb-a684-39d413977c7c, "message": respond error: ApiError:status[400],code[undefined],msg[用户名或密码不正确],errMsg[], "timestamp": 2020-12-14T09:28:47.141Z }
